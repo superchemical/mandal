@@ -1,11 +1,11 @@
 {
-    "title": "Modern Business",
-    "name": "startbootstrap-modern-business",
+    "title": "Chemical Mandal",
+    "name": "chemical-mandal",
     "version": "4.2.2",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "A multipurpose HTML website template built with Bootstrap",
+    "description": "Chemical Mandal",
     "keywords": [
         "css",
         "sass",
@@ -14,19 +14,14 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/modern-business",
+    "homepage": "https://chemicalmandal.com/",
     "bugs": {
-        "url": "https://github.com/StartBootstrap/startbootstrap-modern-business/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/ThunderBirdDeveloupment/staticweb/issues",
+        "email": "feedback@carbanmandal.com"
     },
-    "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/StartBootstrap/startbootstrap-modern-business.git"
+        "url": "https://github.com/ThunderBirdDeveloupment/staticweb.github.io.git"
     },
     "dependencies": {
         "bootstrap": "4.5.0",
